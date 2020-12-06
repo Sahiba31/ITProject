@@ -40,12 +40,14 @@ For user, you first have to register and then login.
 # Note:
 For any issue, please mail at: sahibagoyal1999@gmail.com
 
-Some Screenshots:
+## Some Screenshots:
 ![login.jpg](https://github.com/Sahiba31/ITProject/blob/main/Photos/login.JPG)
 
+
 ![products.jpg](https://github.com/Sahiba31/ITProject/blob/main/Photos/products.JPG)
+
 
 ![forgot.jpg](https://github.com/Sahiba31/ITProject/blob/main/Photos/forgot.JPG)
 
 
-THANKYOU SO MUCH FOR READING!!!
+## THANKYOU SO MUCH FOR READING!!!
