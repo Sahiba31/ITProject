@@ -11,7 +11,7 @@ Admin has one extra power i.e. to delete the product from his/her site.
 
 3. Open PHPMyAdmin (http://localhost/phpmyadmin) and import products_data.sql for data. You can import either by gui or cli.
 
-    Command for CLI:  mysql –u root –p MyITProject < products_data.sql
+    Command for CLI:  ```mysql –u root –p MyITProject < products_data.sql```
                      
                       
 4. Go and write http://localhost/MyITProject/login.php in your browser.
