@@ -1,0 +1,72 @@
+body {
+  background : url("4.jpg");
+  height: 90%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  text-align: center;
+}
+
+form {
+	width: 200 px;
+    display: inline-block;
+	
+}
+h1 {
+    color: #ffffff;
+    font-size: 50px;
+    font-family: "museo-sans", Arial, Verdana;
+    text-transform: uppercase;
+    letter-spacing: -2px;
+	margin: 20px 0 0 0;
+}
+
+label {
+    color: black;
+    font-size: 20px;
+    font-family: "museo-sans", Arial, Verdana;
+    letter-spacing: 1px;
+}
+
+#divForgot{
+	width: 50%;
+   	padding: 20px;
+   	margin-top: 130px ;
+   	border: 2px solid #cbcbcb;
+	background-color: rgb(173, 173, 133);
+	border-radius: 16px;
+	opacity: 1;
+   }
+ 
+input {
+  box-sizing: border-box;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+  font-size: 20px;
+  background-color: white;
+  background-position: 10px 10px; 
+  background-repeat: no-repeat;
+}
+
+a{
+    font-family: "museo-sans", Arial, Verdana;
+    letter-spacing: 1px;
+	font-size: 20px;
+}
+a:link {
+  color: blue;
+}
+a:visited {
+  color: black;
+}
+a:hover {
+  color: red;
+}
+
+fieldset {
+  background-color: rgb(153, 153, 102);
+  width: 400px;
+  opacity: 1;
+  border-radius: 16px;
+  margin-top: 130px;
+}

@@ -1,0 +1,114 @@
+body {
+  background : url("10.jpeg");
+  height: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  text-align: center;
+}
+.right {
+		position: absolute;
+		right: 40px;
+}
+form {
+    display: inline-block;
+}
+h1 {
+    color: #fffff;
+    font-size: 50px;
+    font-family: "museo-sans", Arial, Verdana;
+    text-transform: uppercase;
+    letter-spacing: -2px;
+	margin: 20px 0 0 0;
+}
+h2 {
+    color: #fffff;
+    font-size: 30px;
+    font-family: "museo-sans", Arial, Verdana;
+    text-transform: uppercase;
+    letter-spacing: -2px;
+	margin: 20px 0 0 0;
+}
+.button {
+	background-color: red; 
+	color: white;
+	border: none;
+	padding: 10px 32 px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 24px;
+	transition-duration: 0.4s;
+	border-radius: 4px;
+}
+select{
+	width: 40%;
+	height: 4%;
+	cursor: pointer;
+	border: 2px solid #ccc;
+	border-radius: 4px;
+	font-size: 18px;
+}
+#insert_div{
+	width: 100%;
+   	padding: 20px;
+   	margin: 15px auto;
+   	border: 2px solid #cbcbcb;
+	background-color: rgba(0,0,20,0.3);
+	border-radius: 16px;
+   }
+
+label {
+    color: black;
+    font-size: 20px;
+    font-family: "museo-sans", Arial, Verdana;
+    letter-spacing: 1px;
+}
+
+.label1 {
+    color: black;
+    font-size: 25px;
+    font-family: "museo-sans", Arial, Verdana;
+    letter-spacing: 1px;
+}
+input {
+  box-sizing: border-box;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+  font-size: 20px;
+  background-color: white;
+  background-position: 10px 10px; 
+  background-repeat: no-repeat;
+}
+
+.formfield * {
+	vertical-align: middle;
+	padding: 10px;
+    border-radius: 5px;   
+}
+
+#Upload
+{
+  box-sizing: border-box;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+  font-size: 20px;
+  background-color: transparent;
+  background-position: 10px 10px; 
+  background-repeat: no-repeat;
+}
+a{
+    font-family: "museo-sans", Arial, Verdana;
+    letter-spacing: 1px;
+	font-size: 20px;
+	color: black;
+}
+a:link {
+  color: black;
+}
+a:visited {
+  color: black;
+}
+a:hover {
+  color: red;
+}

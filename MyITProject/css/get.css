@@ -1,0 +1,56 @@
+h1 {
+    color: #fffff;
+    font-size: 50px;
+    font-family: "museo-sans", Arial, Verdana;
+    text-transform: uppercase;
+    letter-spacing: -2px;
+	margin: 20px 0 0 0;
+}
+select{
+	width: 15%;
+	cursor: pointer;
+	border: 2px solid #ccc;
+	border-radius: 4px;
+	font-size: 21px;
+}
+.button {
+	background-color: blue; 
+	color: white;
+	border: none;
+	padding: 10px 32 px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 14px;
+	transition-duration: 0.4s;
+	border-radius: 4px;
+}
+
+label {
+    color: #fffff;
+    font-size: 20px;
+    font-family: "museo-sans", Arial, Verdana;
+    letter-spacing: 1px;
+}
+.label1 {
+    color: ;
+    font-size: 20px;
+    font-family: "museo-sans", Arial, Verdana;
+    letter-spacing: 1px;
+}
+
+a{
+    font-family: "museo-sans", Arial, Verdana;
+    letter-spacing: 1px;
+	font-size: 20px;
+	color: white;
+}
+a:link {
+  color: white;
+}
+a:visited {
+  color: white;
+}
+a:hover {
+  color: red;
+}
