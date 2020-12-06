@@ -5,17 +5,16 @@ In this site, there is one admin and many users. Admin and users both can upload
 Admin has one extra power i.e. to delete the product from his/her site.
 
 ## Process:
-1.Download the zip and extract MyITProject folder to (for xampp xampp/htdocs, for wamp wamp/www, for lamp var/www/html).
+1. Download the zip and extract MyITProject folder to (for xampp xampp/htdocs, for wamp wamp/www, for lamp var/www/html).
 
-2.No need to create database and tables as they are automatically created when you run the website.
+2. No need to create database and tables as they are automatically created when you run the website.
 
-3.Open PHPMyAdmin [(http://localhost/phpmyadmin)] and import products_data.sql for data. You can import either by gui or cli.
+3. Open PHPMyAdmin (http://localhost/phpmyadmin) and import products_data.sql for data. You can import either by gui or cli.
 
-    Command for CLI: ```bash
-                        mysql –u root –p MyITProject < products_data.sql
-                      ``` 
+    Command for CLI:  mysql –u root –p MyITProject < products_data.sql
+                     
                       
-4.Go and write [http://localhost/MyITProject/login.php] in your browser.
+4. Go and write http://localhost/MyITProject/login.php in your browser.
 
 # Login Details:
 
@@ -39,6 +38,6 @@ For user, you first have to register and then login.
 • You can also give rating in last by clicking on stars.
 
 # Note:
-For any issue, please mail at: [sahibagoyal1999@gmail.com]
+For any issue, please mail at: sahibagoyal1999@gmail.com
 
 THANKYOU SO MUCH FOR READING!!!
