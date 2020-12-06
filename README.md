@@ -43,5 +43,9 @@ For any issue, please mail at: sahibagoyal1999@gmail.com
 Some Screenshots:
 ![login.jpg](https://github.com/Sahiba31/ITProject/blob/main/Photos/login.JPG)
 
+![products.jpg](https://github.com/Sahiba31/ITProject/blob/main/Photos/products.JPG)
+
+![forgot.jpg](https://github.com/Sahiba31/ITProject/blob/main/Photos/forgot.JPG)
+
 
 THANKYOU SO MUCH FOR READING!!!
